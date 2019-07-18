@@ -1,5 +1,5 @@
-public class Cwqttd {
+public class Cokqoa {
     public static void main() {
-        System.out.println("pcxkl");
+        System.out.println("rtidn");
     }
 }
