@@ -1,5 +1,5 @@
-public class Cegykh {
+public class Clhmnu {
     public static void main() {
-        System.out.println("baoeg");
+        System.out.println("jgxtn");
     }
 }
