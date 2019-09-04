@@ -1,5 +1,5 @@
-public class Clhmnu {
+public class Cvhxlq {
     public static void main() {
-        System.out.println("jgxtn");
+        System.out.println("bbyqh");
     }
 }
