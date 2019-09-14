@@ -1,5 +1,5 @@
-public class Cipych {
+public class Cbtrsm {
     public static void main() {
-        System.out.println("drcgm");
+        System.out.println("dfqim");
     }
 }
