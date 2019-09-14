@@ -1,5 +1,5 @@
-public class Cdykup {
+public class Cipych {
     public static void main() {
-        System.out.println("ppbhe");
+        System.out.println("drcgm");
     }
 }
