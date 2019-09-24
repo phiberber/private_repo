@@ -1,5 +1,5 @@
-public class Cbtrsm {
+public class Cpture {
     public static void main() {
-        System.out.println("dfqim");
+        System.out.println("oxwha");
     }
 }
