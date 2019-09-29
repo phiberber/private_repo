@@ -1,5 +1,5 @@
-public class Cimktv {
+public class Cwfkdl {
     public static void main() {
-        System.out.println("gdjaq");
+        System.out.println("atvwj");
     }
 }
