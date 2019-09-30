@@ -1,5 +1,5 @@
-public class Cwfkdl {
+public class Ckrlmd {
     public static void main() {
-        System.out.println("atvwj");
+        System.out.println("fnrum");
     }
 }
