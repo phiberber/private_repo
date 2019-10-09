@@ -1,5 +1,5 @@
-public class Ckrlmd {
+public class Cgphni {
     public static void main() {
-        System.out.println("fnrum");
+        System.out.println("ouxjx");
     }
 }
